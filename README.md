@@ -93,6 +93,3 @@ Esses valores são específicos da mecânica desta caixa — **remeça sempre qu
 | Eixo satura em 100% antes do fim do curso físico | `Max` configurado abaixo da leitura bruta real — recalibre |
 | Dispositivo não atualiza no Windows após regravar | Desinstale o dispositivo `HID\VID_2341&PID_8036&MI_02` no Gerenciador de Dispositivos e reconecte em outra porta USB |
 
-## Licença
-
-Defina aqui a licença do projeto (ex: MIT).
